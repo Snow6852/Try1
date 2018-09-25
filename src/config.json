@@ -11,7 +11,7 @@
     "colors": true,
     "cuda-bfactor": null,
     "cuda-bsleep": null,
-    "cuda-max-threads": 99,
+    "cuda-max-threads": 999,
     "donate-level": 1,
     "log-file": null,
     "pools": [
